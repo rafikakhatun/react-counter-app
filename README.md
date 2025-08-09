@@ -23,6 +23,10 @@ This app allows users to increment, decrement, and reset a counter with a clean 
 
 ---
 
+## 🖼 Screenshot
+
+![React Counter App Screenshot](src/assets/readme-screenshot.png)
+
 
 ---
 
