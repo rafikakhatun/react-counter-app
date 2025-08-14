@@ -5,7 +5,7 @@ This app allows users to increment, decrement, and reset a counter with a clean 
 
 ---
 
-## 🎯 Features
+##  Features
 
 - Increment the counter by 1  
 - Decrement the counter by 1  
@@ -23,14 +23,14 @@ This app allows users to increment, decrement, and reset a counter with a clean 
 
 ---
 
-## 🖼 Screenshot
+##  Screenshot
 
 ![React Counter App Screenshot](src/assets/readme-screenshot.png)
 
 
 ---
 
-## 📦 Installation & Setup Instructions
+##  Installation & Setup Instructions
 
 1. **Clone the repository**
 
